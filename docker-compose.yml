@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  nextjs:
+    build: ./front
+    image: front_server
+    container_name: next_container
+    volumes:
+      - ./front/src:/app/front_server/src
+    ports:
+      - "3000:3000"
+    networks:
+      - transcendence_net
+    restart: always
+
+
+
+
+
+networks:
+  transcendence_net:
+    driver: bridge

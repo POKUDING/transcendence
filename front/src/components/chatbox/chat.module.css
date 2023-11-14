@@ -1,0 +1,26 @@
+.table {
+	min-width: 650;
+}
+
+.chatSection {
+	width: 100px;
+	height: 40vh;
+}
+
+.hedBG {
+	background-color: #e0e0e0
+}
+
+.borderRight500 {
+	border-right: 1px solid #e0e0e0
+}
+
+.messageArea {
+	width: 550px;
+	height: 1170px;
+	overflow-y: auto;
+}
+
+.userList {
+	width: 100px;
+}
