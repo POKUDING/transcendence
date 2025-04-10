@@ -37,10 +37,6 @@
 - **Let's Encrypt**: HTTPS를 구현하기 위해 Let's Encrypt를 사용합니다.
 - **garbia**: DNS를 위해 garbia를 활용합니다.
 
-## 라이선스
-
-이 소프트웨어는 MIT 라이선스를 따릅니다.
-
 
 ## rootpage
 ![스크린캐스트-2024년-03월-12일-16시-44분-07초](https://github.com/POKUDING/transcendence/assets/92212524/35a09ac4-1f68-423d-b33d-7010a6cbeba3)
