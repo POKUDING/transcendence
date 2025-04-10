@@ -8,6 +8,16 @@
 
 "transcendence"는 42 Seoul의 학생들이 협업하여 개발한 프로젝트로, 현대적인 기술 스택과 아이디어를 활용하여 만들어진 웹 서비스입니다.
 
+## ERD
+![image](https://github.com/user-attachments/assets/482abbbf-a9c1-4427-b624-3cca304fa8a7)
+<br />
+<br />
+
+## 인프라 구조도
+![image](https://github.com/user-attachments/assets/6d30946c-99cd-49df-835e-05c31438999e)
+<br />
+<br />
+
 ## 기술 스택
 
 ### 공통
@@ -39,6 +49,10 @@
 
 ## 주요 기능
 ![image](https://github.com/user-attachments/assets/a0098174-f9e4-4bca-ac84-17a0b5f41de3)
+<br/>
+<br/>
+
+![image](https://github.com/user-attachments/assets/a47752f1-7c35-4a78-a5f7-3a1afc6b8e73)
 <br/>
 <br/>
 
