@@ -37,7 +37,10 @@
 - **Let's Encrypt**: HTTPS를 구현하기 위해 Let's Encrypt를 사용합니다.
 - **garbia**: DNS를 위해 garbia를 활용합니다.
 
-
+## 주요 기능
+![image](https://github.com/user-attachments/assets/a0098174-f9e4-4bca-ac84-17a0b5f41de3)
+<br/>
+<br/>
 
 ## rootpage
 ![스크린캐스트-2024년-03월-12일-16시-44분-07초](https://github.com/POKUDING/transcendence/assets/92212524/35a09ac4-1f68-423d-b33d-7010a6cbeba3)
